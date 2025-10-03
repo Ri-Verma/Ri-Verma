@@ -18,32 +18,6 @@ I'm a student passionate about **Web Security** and **Web Development**. I enjoy
   <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=18&pause=1000&color=FFFFFF&center=false&vCenter=true&width=500&lines=🌱+Learning:+AI+with+Machine+Learning,+building+on+my+NLP+experience.;💬+Ask+me+about:+MERN+stack,+Python,+or+Cybersecurity+basics.;📫+Contact+me:+user.rishikesh@gmail.com.;⚡+Fun+fact:+Coffee+%2B+Coding+=+❤️." alt="About Me Content Typing" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-progress.vercel.app/api?title=Web%20Security&percentage=85" alt="Web Security Progress" />
-  <img src="https://github-readme-progress.vercel.app/api?title=Web%20Development&percentage=90" alt="Web Development Progress" />
-  <img src="https://github-readme-progress.vercel.app/api?title=AI%20%26%20ML&percentage=70" alt="AI & ML Progress" />
-</p>
-
----
-
-### <span style="font-family: 'Times New Roman'; font-size: 1.8em; font-weight: bold;">🤝 Let's Connect!</span>
-<div align="center">
-  <a href="https://www.linkedin.com/in/rishikesh-verma-aab4a1256/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:user.rishikesh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</div>
-
----
-
-### <span style="font-family: 'Times New Roman'; font-size: 1.8em; font-weight: bold;">🛠️ My Tech Stack</span>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,bootstrap,nodejs,express,mongodb,mysql,postgres,git,vscode,postman&perline=8" />
-  </a>
-</p>
 
 ---
 
@@ -54,6 +28,9 @@ I'm a student passionate about **Web Security** and **Web Development**. I enjoy
 </p>
 
 ---
+
+
+
 
 ### <span style="font-family: 'Times New Roman'; font-size: 1.8em; font-weight: bold;">🏆 My Featured Projects</span>
 
@@ -77,6 +54,28 @@ I'm a student passionate about **Web Security** and **Web Development**. I enjoy
   </a>
   <img src="https://via.placeholder.com/400x200.gif?text=Vehicle+Rental+Demo" alt="Vehicle Rental Demo GIF" width="45%" style="vertical-align:top;"/>
 </p>
+
+---
+
+### <span style="font-family: 'Times New Roman'; font-size: 1.8em; font-weight: bold;">🛠️ My Tech Stack</span>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,bootstrap,nodejs,express,mongodb,mysql,postgres,git,vscode,postman&perline=8" />
+  </a>
+</p>
+
+---
+
+
+### <span style="font-family: 'Times New Roman'; font-size: 1.8em; font-weight: bold;">🤝 Let's Connect!</span>
+<div align="center">
+  <a href="https://www.linkedin.com/in/rishikesh-verma-aab4a1256/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:user.rishikesh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
 ---
 
