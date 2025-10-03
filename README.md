@@ -4,21 +4,38 @@
   </a>
 </div>
 
+<div align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Ri-Verma&label=Profile%20Views&color=0e75b6&style=flat" alt="Ri-Verma" /> 
+</div>
+
 ---
 
 ### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFB2&center=false&vCenter=true&width=150&lines=🚀+About+Me" alt="About Me Typing" />
 
 I'm a student passionate about **Web Security** and **Web Development**. I enjoy building projects that solve real-world problems and I'm always exploring new technologies, currently diving deep into the world of **AI/ML**.
 
--   🌱 I’m focusing on learning **AI with Machine Learning**, building on my previous experience with NLP models.
--   💬 Ask me about anything related to **MERN stack**, **Python**, or **Cybersecurity basics**.
--   📫 You can reach me at: **user.rishikesh@gmail.com**
--   😄 Pronouns: **He/Him**
--   ⚡ Fun fact: Coffee + Coding = ❤️
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/learning.gif" width="30" /></td>
+    <td><strong>Learning:</strong> I’m focusing on AI with Machine Learning, building on my experience with NLP models.</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/ask-me.gif" width="30" /></td>
+    <td><strong>Ask me about:</strong> Anything related to MERN stack, Python, or Cybersecurity basics.</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/contact.gif" width="30" /></td>
+    <td><strong>Contact me:</strong> <strong>user.rishikesh@gmail.com</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/Tushar-OP/Tushar-OP/main/assets/GIF/FunFact.gif" width="30" /></td>
+    <td><strong>Fun fact:</strong> Coffee + Coding = ❤️</td>
+  </tr>
+</table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🤝 Let's Connect!
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFB2&center=false&vCenter=true&width=150&lines=🤝+Let's+Connect" alt="Connect Typing" />
 <div align="center">
   <a href="https://www.linkedin.com/in/rishikesh-verma-aab4a1256/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -28,11 +45,11 @@ I'm a student passionate about **Web Security** and **Web Development**. I enjoy
   </a>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFB2&center=false&vCenter=true&width=150&lines=🛠️+My+Tech+Stack" alt="Tech Stack Typing" />
 
-<div class="svg-animate">
+<div align="center">
   <h4>Languages:</h4>
   <p>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
@@ -57,17 +74,17 @@ I'm a student passionate about **Web Security** and **Web Development**. I enjoy
   </p>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFB2&center=false&vCenter=true&width=200&lines=📊+My+GitHub+Stats" alt="GitHub Stats Typing" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ri-Verma&show_icons=true&theme=radical&rank_icon=github" alt="Rishikesh's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ri-Verma&layout=compact&theme=radical" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ri-Verma&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ri-Verma&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="Rishikesh's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ri-Verma&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ri-Verma&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFB2&center=false&vCenter=true&width=150&lines=🏆+My+Projects" alt="Projects Typing" />
 
@@ -83,8 +100,4 @@ I'm a student passionate about **Web Security** and **Web Development**. I enjoy
   </a>
 </div>
 
----
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ri-Verma.Ri-Verma" alt="visitors"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
