@@ -6,7 +6,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFB2&center=false&vCenter=true&width=150&lines=🚀+About+Me" alt="About Me Typing" />
 
 I'm a student passionate about **Web Security** and **Web Development**. I enjoy building projects that solve real-world problems and I'm always exploring new technologies, currently diving deep into the world of **AI/ML**.
 
@@ -26,15 +26,13 @@ I'm a student passionate about **Web Security** and **Web Development**. I enjoy
   <a href="mailto:user.rishikesh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  </div>
+</div>
 
 ---
 
-### 🛠️ My Tech Stack
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFB2&center=false&vCenter=true&width=150&lines=🛠️+My+Tech+Stack" alt="Tech Stack Typing" />
 
-<details>
-  <summary>Click to expand my toolbox</summary>
-  
+<div class="svg-animate">
   <h4>Languages:</h4>
   <p>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
@@ -57,29 +55,21 @@ I'm a student passionate about **Web Security** and **Web Development**. I enjoy
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"></a>
   </p>
-</details>
+</div>
 
 ---
 
-### 📊 My GitHub Stats & Activity
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFB2&center=false&vCenter=true&width=200&lines=📊+My+GitHub+Stats" alt="GitHub Stats Typing" />
 
-<details>
-  <summary>Click to see my GitHub stats</summary>
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ri-Verma&show_icons=true&theme=radical&rank_icon=github" alt="Rishikesh's GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ri-Verma&layout=compact&theme=radical" alt="Top Languages"/>
-  </p>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ri-Verma&theme=radical" alt="GitHub Streak"/>
-  </p>
-</details>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ri-Verma&show_icons=true&theme=radical&rank_icon=github" alt="Rishikesh's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ri-Verma&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ri-Verma&theme=radical" alt="GitHub Streak"/>
+</p>
 
 ---
 
-### 🏆 Featured Projects
-
-Here are some projects I'm proud of. Check them out!
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFB2&center=false&vCenter=true&width=150&lines=🏆+My+Projects" alt="Projects Typing" />
 
 <div align="center">
   <a href="https://github.com/Ri-Verma/MemeHub">
