@@ -35,7 +35,8 @@ I'm a student passionate about **Web Security** and **Web Development**. I enjoy
 
 </td>
 <td width="40%">
-
+</table>
+<table>
 ### <span style="font-family: 'Times New Roman'; font-size: 1.8em; font-weight: bold;">📊 My GitHub Stats</span>
 
 <p align="center">
