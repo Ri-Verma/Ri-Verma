@@ -34,7 +34,7 @@ I'm a student passionate about **Web Security** and **Web Development**. I enjoy
 </table>
 
 </td>
-<td width="40%">
+<td>
 </table>
 <table>
   
