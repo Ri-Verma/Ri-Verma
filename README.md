@@ -40,10 +40,15 @@ I'm a student passionate about **Web Security** and **Web Development**. I enjoy
   
  ### <span style="font-family: 'Times New Roman'; font-size: 1.8em; font-weight: bold;">📊 My GitHub Stats</span>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ri-Verma&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="Rishikesh's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ri-Verma&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Ri-Verma&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ri-Verma&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ri-Verma&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ri-Verma&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=LoneTerror&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### <span style="font-family: 'Times New Roman'; font-size: 1.8em; font-weight: bold;">🤝 Let's Connect!</span>
 <div align="center">
@@ -67,43 +72,6 @@ I'm a student passionate about **Web Security** and **Web Development**. I enjoy
     <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,bootstrap,nodejs,express,mongodb,mysql,postgres,git,vscode,postman&perline=8" />
   </a>
 </p>
-
----
-
-### <span style="font-family: 'Times New Roman'; font-size: 1.8em; font-weight: bold;">🏆 My Featured Projects</span>
-
-<table>
-<tr valign="top">
-<td width="50%">
-  <p align="center">
-    <a href="https://github.com/Ri-Verma/MemeHub">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ri-Verma&repo=MemeHub&theme=radical&title_color=FF5733&icon_color=00BFB2&text_color=FFFFFF&hide_border=true" alt="MemeHub Website"/>
-    </a>
-  </p>
-</td>
-<td width="50%">
-  <p align="center">
-    <a href="https://github.com/Ri-Verma/Learning-management-system">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ri-Verma&repo=Learning-management-system&theme=radical&title_color=FF5733&icon_color=00BFB2&text_color=FFFFFF&hide_border=true" alt="Learning Management System"/>
-    </a>
-  </p>
-</td>
-</tr>
-<tr valign="top">
-<td width="50%">
-  <p align="center">
-    <a href="https://github.com/Ri-Verma/Vehicle-Rental-Control-Hub">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ri-Verma&repo=Vehicle-Rental-Control-Hub&theme=radical&title_color=FF5733&icon_color=00BFB2&text_color=FFFFFF&hide_border=true" alt="Vehicle Rental Control Hub"/>
-    </a>
-  </p>
-</td>
-<td width="50%">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ri-Verma&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-  </p>
-</td>
-</tr>
-</table>
 
 ---
 
