@@ -12,7 +12,7 @@
 
 <table>
 <tr valign="top">
-<td width="60%">
+<td>
 
 ### <span style="font-family: 'Times New Roman'; font-size: 1.8em; font-weight: bold;">🚀 About Me</span>
 
