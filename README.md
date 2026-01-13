@@ -41,11 +41,11 @@ I'm a student passionate about **Web Security** and **Web Development**. I enjoy
  ### <span style="font-family: 'Times New Roman'; font-size: 1.8em; font-weight: bold;">📊 My GitHub Stats</span>
 
 ![](https://github-readme-stats.vercel.app/api?username=Ri-Verma&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ri-Verma&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ri-Verma&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats-beta-six-jrdcd8f0hi.vercel.app/?user=Ri-Verma&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats-beta-six-jrdcd8f0hi.vercel.app/api/top-langs/?username=Ri-Verma&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ri-Verma&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+![](https://github-readme-stats-beta-six-jrdcd8f0hi.vercel.app/api?username=Ri-Verma&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ![Stats](./assets/github-stats.svg)
 ![Streak](./assets/github-streak.svg)
