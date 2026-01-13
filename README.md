@@ -47,6 +47,12 @@ I'm a student passionate about **Web Security** and **Web Development**. I enjoy
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ri-Verma&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
+![Stats](./assets/github-stats.svg)
+![Streak](./assets/github-streak.svg)
+
+
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=LoneTerror&icon=0&color=0)](https://visitcount.itsvg.in)
 
