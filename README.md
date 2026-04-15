@@ -15,7 +15,9 @@
 ### <span style="font-family: 'Times New Roman'; font-size: 1.8em; font-weight: bold;"> About Me</span>
 
 <div align="center">
-  ### Exploring every possibilities of programing, or streatching the limit of software. 
+  <p style="font-family: 'Times New Roman'; font-size: 1em; font-weight: bold;" >
+    Exploring every possibilities of programing, or streatching the limit of software. 
+  </p>
 </div>
 
   
