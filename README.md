@@ -10,18 +10,14 @@
 
 ---
 
-<table>
-<tr valign="top">
-<td>
+
 
 ### <span style="font-family: 'Times New Roman'; font-size: 1.8em; font-weight: bold;"> About Me</span>
 
-Exploring every possibilities of programing, or streatching the limit of software. 
+<div align="center">
+  ### Exploring every possibilities of programing, or streatching the limit of software. 
+</div>
 
-</td>
-<td>
-</table>
-<table>
   
  ### <span style="font-family: 'Times New Roman'; font-size: 1.8em; font-weight: bold;">GitHub Stats</span>
 
@@ -45,9 +41,7 @@ Exploring every possibilities of programing, or streatching the limit of softwar
   </a>
 </div>
 
-</td>
-</tr>
-</table>
+
 
 ---
 
