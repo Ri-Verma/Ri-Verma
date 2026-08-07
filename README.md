@@ -54,6 +54,7 @@ I'm a Computer Science student at **Gauhati University**, passionate about **Web
 <table>
 <tr>
 <td width="50%" valign="top">
+  
 #### 🔗 [TerraLedger](https://github.com/Ri-Verma/TerraLedger)
  
 Decentralized land registry built with React, Vite, TypeScript, and Solidity smart contracts (via Hardhat + TypeChain). Integrates MetaMask/Web3 wallet auth for cryptographically secured property transactions with a tamper-proof audit trail.
@@ -62,7 +63,8 @@ Decentralized land registry built with React, Vite, TypeScript, and Solidity sma
  
 </td>
 <td width="50%" valign="top">
-#### 🔗 [BlueSwitch](https://github.com/Ri-Verma/BlueSwitch)
+  
+#### 🔗[BlueSwitch](https://github.com/Ri-Verma/BlueSwitch)
  
 A localized PaaS that automates CI/CD pipelines using Docker containerization and dynamic Nginx routing. Implements Blue/Green deployments via Git Hooks, cutting rollback time to ~5 minutes, plus a real-time FastAPI dashboard streaming live CPU/RAM telemetry.
  
@@ -78,12 +80,14 @@ A localized PaaS that automates CI/CD pipelines using Docker containerization an
 <table>
 <tr>
 <td width="50%" valign="top">
+  
 #### ML Intern @ NIELIT
  
 Built predictive models (regression, classification, clustering) with Scikit-Learn, hitting ~97% accuracy; worked with AWS EC2/S3/RDS for deployment.
  
 </td>
 <td width="50%" valign="top">
+  
 #### Student Trainee @ Northeast Frontier Railway
  
 Audited network topology of the Integrated Passenger Information System; evaluated OFC/leased-line links, boosting transmission speed by 50%.
