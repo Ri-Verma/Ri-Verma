@@ -1,61 +1,91 @@
-<div align="center">
-  <a href="https://github.com/Ri-Verma">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=30&pause=1000&color=FF5733&center=true&vCenter=true&width=490&lines=Hi+there%2C+I'm+Rishikesh+Verma+👋;Full-Stack+Developer;Web+Security+Enthusiast;AI+%26+ML+Explorer" alt="Typing SVG" />
-  </a>
-</div>
+<h1 align="center">Hi there, I'm Rishikesh 👋</h1>
 
-<div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Ri-Verma&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> 
-</div>
+<h3 align="center">B.Tech CS student | Building with ML, Web3 & DevOps</h3>
 
----
-
-
-
-### <span style="font-family: 'Times New Roman'; font-size: 1.8em; font-weight: bold;"> About Me</span>
-
-<div align="center">
-  <p style="font-family: 'Times New Roman'; font-size: 1em; font-weight: bold;" >
-    Exploring every possibilities of programing, or streatching the limit of software. 
-  </p>
-</div>
-
-  
- ### <span style="font-family: 'Times New Roman'; font-size: 1.8em; font-weight: bold;">GitHub Stats</span>
-
-![](https://github-readme-stats.vercel.app/api?username=Ri-Verma&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ri-Verma&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ri-Verma&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=LoneTerror&icon=0&color=0)](https://visitcount.itsvg.in)
-
-### <span style="font-family: 'Times New Roman'; font-size: 1.8em; font-weight: bold;">Let's Connect!</span>
-<div align="center">
-  <a href="https://www.linkedin.com/in/rishikesh-verma-aab4a1256/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:user.rishikesh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</div>
-
-
-
----
-
-### <span style="font-family: 'Times New Roman'; font-size: 1.8em; font-weight: bold;">Tech Stack</span>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,bootstrap,nodejs,express,mongodb,mysql,postgres,git,vscode,postman&perline=8" />
+  <a href="https://linkedin.com/in/rishikeshverma">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:user.rishikesh@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Ri-Verma&style=for-the-badge&color=blueviolet" alt="profile views" />
 </p>
 
 ---
 
+### 🚀 About Me
+
+I'm a Computer Science student at **Gauhati University**, passionate about **Web Security, Web Development, and AI/ML**. I like building projects that solve real problems — from decentralized apps to local CI/CD platforms — and I'm currently deepening my ML knowledge on top of my NLP background.
+
+- 🔭 Currently exploring **AI / Machine Learning** and **Web3**
+- 🌱 Learning: advanced ML, blockchain security
+- 💬 Ask me about: **MERN stack, Python, or Cybersecurity basics**
+- ⚡ Fun fact: Coffee + Coding = ❤️
+
+---
+
+### 🧰 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tools & Frameworks**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+---
+
+### 🛠️ Featured Projects
+
+#### 🔗 [TerraLedger](https://github.com/Ri-Verma/TerraLedger)
+Decentralized land registry built with React, Vite, TypeScript, and Solidity smart contracts (via Hardhat + TypeChain). Integrates MetaMask/Web3 wallet auth for cryptographically secured property transactions with a tamper-proof audit trail.
+`React` `TypeScript` `Solidity` `Hardhat` `Web3`
+
+#### 🔗 [BlueSwitch](https://github.com/Ri-Verma/BlueSwitch)
+A localized PaaS that automates CI/CD pipelines using Docker containerization and dynamic Nginx routing. Implements Blue/Green deployments via Git Hooks, cutting rollback time to ~5 minutes, plus a real-time FastAPI dashboard streaming live CPU/RAM telemetry.
+`Docker` `Nginx` `FastAPI` `CI/CD`
+
+> Update the links above once these repos are pushed under your GitHub account.
+
+---
+
+### 💼 Experience Highlights
+
+- **ML Intern @ NIELIT** — Built predictive models (regression, classification, clustering) with Scikit-Learn, hitting ~97% accuracy; worked with AWS EC2/S3/RDS for deployment.
+- **Student Trainee @ Northeast Frontier Railway** — Audited network topology of the Integrated Passenger Information System; evaluated OFC/leased-line links, boosting transmission speed by 50%.
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ri-Verma&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ri-Verma&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ri-Verma&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/rishikeshverma"><img src="https://img.shields.io/badge/-Rishikesh%20Verma-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:user.rishikesh@email.com"><img src="https://img.shields.io/badge/-user.rishikesh@email.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
